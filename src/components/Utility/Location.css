@@ -1,0 +1,15 @@
+.location {
+    font-size: 36px;
+    font-weight: light;
+    line-height: 42px;
+    padding: 0px;
+    margin: 0px;
+}
+
+.location-change {
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    padding: 0px;
+    margin: 0px;
+}

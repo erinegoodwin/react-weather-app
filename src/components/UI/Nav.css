@@ -1,0 +1,12 @@
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 447px;
+    margin-bottom: 48px;
+}
+
+nav button {
+    font-size: 24px;
+}
+
